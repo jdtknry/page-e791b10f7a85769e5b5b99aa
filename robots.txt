@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paopaogouclash.com/sitemap.xml
